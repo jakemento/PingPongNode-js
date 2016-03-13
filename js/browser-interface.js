@@ -1,4 +1,4 @@
-var pingPong = require('./pingpong.js').pingPong;
+var pingPong = require('./../js/pingpong.js').pingPong;
 
 $(document).ready(function(){
   $('#ping-pong').submit(function(event){
